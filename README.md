@@ -35,16 +35,16 @@
 
 ### What can you expect of me as your manager?
 
-- Expected a regularly scheduled 1 on 1
+- Expect a regularly scheduled 1 on 1
   - If something is urgent and especially if something is eating you up reach out immediately.
-  - My first question is always: How are you?
+  - My first question is always "How are you?"
   - Don't give me status. Do give me your stress level, feedback on me, feedback on your team, fears, wants, needs, high fives and fist bumps.
   - Be prepared. Take 5 minutes to think about what you want most out of our conversation.
   - It's your meeting, reschedule if you need to.
 - My calendar is almost always up to date so you can always grab 5 minutes of my time.
-- I question everything, do not take it as attack to your work
-- Give context, heads ups on changes
-- Be explicit about priority changes
+- I question everything, do not take it as direct criticism of your work
+- I will give context for your work and heads ups on potential changes
+- I will be explicit about priority changes
 - I will Keep an eye out for opportunities where you can prove yourself operating at the next level
 - My responses to your feedback should always be:
   - Thanks
