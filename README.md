@@ -5,10 +5,10 @@
 ### Quick Facts
 
 - I am a family man, nerd, and workaholic. I have two young boys who have my attention most non-working hours. I am also an introvert which means I am an extremely BORING person.
-- Things I am working on at in no particular order:
+- Things I am working on as an individual in no particular order:
   - Taking over the discussion
   - Giving positive feedback
-  - Thinking and talking a t, t h e, s a m e, t i m e
+  - Thinking and talking at, the, same, time
   - Friendly small talk
 
 ### Leadership Style
