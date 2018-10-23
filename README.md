@@ -13,7 +13,7 @@
 
 ### Leadership Style
 
-- I firmly believe a leader does two things: #1 enables others to accomplish their goals (read servant leader) and #2 sets an example for other to follow.
+- I believe a leader does two things: #1 enables others to accomplish their goals (read servant leader) and #2 sets an example for other to follow.
 - I also believe no person is perfect, mistakes will be made so how a person reacts and learns from a failure is a key measure of their ability to improve.
 - I like most communication to be short and to the point and only like to get into the details if there is a problem that needs my help fixing.
 - I will delegate as much responsibility as you can handle.
@@ -51,4 +51,3 @@
   - Thanks, I'll think about it
   - Thanks, I don't get it, can we talk more now|later
 
-## Disclaimer
