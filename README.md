@@ -45,7 +45,7 @@
 - I question everything, do not take it as direct criticism of your work
 - I will give context for your work and heads ups on potential changes
 - I will be explicit about priority changes
-- I will Keep an eye out for opportunities where you can prove yourself operating at the next level
+- I will keep an eye out for opportunities where you can prove yourself operating at the next level
 - My responses to your feedback should always be:
   - Thanks
   - Thanks, I'll think about it
