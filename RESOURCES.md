@@ -1,8 +1,10 @@
-# External Resources
+## External Resources
 Below is a categorized list of resource for reference to others covering:
 *  People Management
 
-## People Management
+### People Management
+
+#### Online Resources
 
 * [Manager-Tools.com](https://www.manager-tools.com/map-of-the-universe#11811) - recommend all new managers start with the "Management Trinity - Basics" 
 * [Manager 2.0 - The Role of the Manager in Scrum](https://www.infoq.com/articles/scrum-management-deemer/) - Talks about how to shift into a Servant Leader mentality instead of command and control.
@@ -10,4 +12,8 @@ Below is a categorized list of resource for reference to others covering:
 * [Leadership Thought Thursdays](https://www.linkedin.com/feed/hashtag/?keywords=leadershipthoughtthursday&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6704773175399596032) - Short 2-3 minute videos discussing a leadership topic
 * [Software Lead Weekly](https://softwareleadweekly.com/) - Weekly Email Digest containing various leadership articles
 
+#### Books
 
+* [The Advantage](https://www.tablegroup.com/books/the-advantage/) or [Five Dysfunctions of a Team](https://www.tablegroup.com/books/dysfunctions/) discuss how to build trust and get results
+* [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - A walkthrough of the various levels of engineering management from small team manager up through CTO and discusses the recommended practices required for each role
+* [The Culture Map](https://erinmeyer.com/books/the-culture-map/) - Examines the differences in communication across different cultures and how this has an impact on global organizations
