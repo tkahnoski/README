@@ -1,8 +1,8 @@
 ## External Resources
 Below is a categorized list of resource for reference to others covering:
 *  People Management
-*  Project Management
 *  Team Culture
+*  Development Process
 
 ### People Management
 
@@ -20,14 +20,21 @@ Below is a categorized list of resource for reference to others covering:
 * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - A walkthrough of the various levels of engineering management from small team manager up through CTO and discusses the recommended practices required for each role
 * [The Culture Map](https://erinmeyer.com/books/the-culture-map/) - Examines the differences in communication across different cultures and how this has an impact on global organizations
 
-### Project Management
-
-#### Online Resources
-
-* [Tech Lead Expectations for Engineering Projects](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#heading=h.dj481vc87f3)
-
 ### Team Culture
 
 #### Online Resources
 
 * [Towards a Culture of Teams](https://agileoutloud.wordpress.com/2019/10/17/towards-a-culture-of-teams/) - dives into how a working group is not the same as a team
+
+#### Books
+
+* [The Advantage](https://www.tablegroup.com/books/the-advantage/) - The five dysfuncitons of a team distilled to principles. 
+
+### Development Process
+
+#### Online Resources
+
+* [Agile Principles](https://agilemanifesto.org/principles.html)
+* [DevOps Capabilities](https://www.devops-research.com/research.html#capabilities)
+* [Tech Lead Expectations for Engineering Projects](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#heading=h.dj481vc87f3)
+
