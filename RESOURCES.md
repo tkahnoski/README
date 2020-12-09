@@ -37,4 +37,5 @@ Below is a categorized list of resource for reference to others covering:
 * [Agile Principles](https://agilemanifesto.org/principles.html)
 * [DevOps Capabilities](https://www.devops-research.com/research.html#capabilities)
 * [Tech Lead Expectations for Engineering Projects](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#heading=h.dj481vc87f3)
+* [Amazon's Builders Library](https://aws.amazon.com/builders-library/)
 
